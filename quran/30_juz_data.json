@@ -1,0 +1,325 @@
+[{
+        "id": 1,
+        "surahs": [1, 2],
+        "verses": [
+            { "surah": 1, "startVerse": 1, "endVerse": 7 },
+            { "surah": 2, "startVerse": 1, "endVerse": 141 }
+        ]
+    },
+    {
+        "id": 2,
+        "surahs": [2],
+        "verses": [
+            { "surah": 2, "startVerse": 142, "endVerse": 252 }
+        ]
+    },
+    {
+        "id": 3,
+        "surahs": [2, 3],
+        "verses": [
+            { "surah": 2, "startVerse": 253, "endVerse": 286 },
+            { "surah": 3, "startVerse": 1, "endVerse": 92 }
+        ]
+    },
+    {
+        "id": 4,
+        "surahs": [3, 4],
+        "verses": [
+            { "surah": 3, "startVerse": 93, "endVerse": 200 },
+            { "surah": 4, "startVerse": 1, "endVerse": 23 }
+        ]
+    },
+    {
+        "id": 5,
+        "surahs": [4],
+        "verses": [
+            { "surah": 4, "startVerse": 24, "endVerse": 147 }
+        ]
+    },
+    {
+        "id": 6,
+        "surahs": [4, 5],
+        "verses": [
+            { "surah": 4, "startVerse": 148, "endVerse": 176 },
+            { "surah": 5, "startVerse": 1, "endVerse": 81 }
+        ]
+    },
+    {
+        "id": 7,
+        "surahs": [5, 6],
+        "verses": [
+            { "surah": 5, "startVerse": 82, "endVerse": 120 },
+            { "surah": 6, "startVerse": 1, "endVerse": 110 }
+        ]
+    },
+    {
+        "id": 8,
+        "surahs": [6, 7],
+        "verses": [
+            { "surah": 6, "startVerse": 111, "endVerse": 165 },
+            { "surah": 7, "startVerse": 1, "endVerse": 87 }
+        ]
+    },
+    {
+        "id": 9,
+        "surahs": [7, 8],
+        "verses": [
+            { "surah": 7, "startVerse": 88, "endVerse": 206 },
+            { "surah": 8, "startVerse": 1, "endVerse": 40 }
+        ]
+    },
+    {
+        "id": 10,
+        "surahs": [8, 9],
+        "verses": [
+            { "surah": 8, "startVerse": 41, "endVerse": 75 },
+            { "surah": 9, "startVerse": 1, "endVerse": 92 }
+        ]
+    },
+    {
+        "id": 11,
+        "surahs": [9, 10, 11],
+        "verses": [
+            { "surah": 9, "startVerse": 92, "endVerse": 129 },
+            { "surah": 10, "startVerse": 1, "endVerse": 109 },
+            { "surah": 11, "startVerse": 1, "endVerse": 5 }
+        ]
+    },
+    {
+        "id": 12,
+        "surahs": [11, 12],
+        "verses": [
+            { "surah": 11, "startVerse": 6, "endVerse": 123 },
+            { "surah": 12, "startVerse": 1, "endVerse": 52 }
+        ]
+    },
+    {
+        "id": 13,
+        "surahs": [12, 13, 14],
+        "verses": [
+            { "surah": 12, "startVerse": 53, "endVerse": 111 },
+            { "surah": 13, "startVerse": 1, "endVerse": 43 },
+            { "surah": 14, "startVerse": 1, "endVerse": 52 }
+        ]
+    },
+    {
+        "id": 14,
+        "surahs": [15, 16],
+        "verses": [
+            { "surah": 15, "startVerse": 1, "endVerse": 99 },
+            { "surah": 16, "startVerse": 1, "endVerse": 128 }
+        ]
+    },
+    {
+        "id": 15,
+        "surahs": [17, 18],
+        "verses": [
+            { "surah": 17, "startVerse": 1, "endVerse": 111 },
+            { "surah": 18, "startVerse": 1, "endVerse": 74 }
+        ]
+    },
+    {
+        "id": 16,
+        "surahs": [18, 19, 20],
+        "verses": [
+            { "surah": 18, "startVerse": 75, "endVerse": 110 },
+            { "surah": 19, "startVerse": 1, "endVerse": 98 },
+            { "surah": 20, "startVerse": 1, "endVerse": 135 }
+        ]
+    },
+    {
+        "id": 17,
+        "surahs": [21, 22],
+        "verses": [
+            { "surah": 21, "startVerse": 1, "endVerse": 112 },
+            { "surah": 22, "startVerse": 1, "endVerse": 78 }
+        ]
+    },
+    {
+        "id": 18,
+        "surahs": [23, 24, 25],
+        "verses": [
+            { "surah": 23, "startVerse": 1, "endVerse": 118 },
+            { "surah": 24, "startVerse": 1, "endVerse": 64 },
+            { "surah": 25, "startVerse": 1, "endVerse": 20 }
+        ]
+    },
+    {
+        "id": 19,
+        "surahs": [25, 26, 27],
+        "verses": [
+            { "surah": 25, "startVerse": 21, "endVerse": 77 },
+            { "surah": 26, "startVerse": 1, "endVerse": 227 },
+            { "surah": 27, "startVerse": 1, "endVerse": 55 }
+        ]
+    },
+    {
+        "id": 20,
+        "surahs": [27, 28, 29],
+        "verses": [
+            { "surah": 27, "startVerse": 56, "endVerse": 93 },
+            { "surah": 28, "startVerse": 1, "endVerse": 88 },
+            { "surah": 29, "startVerse": 1, "endVerse": 45 }
+        ]
+    },
+    {
+        "id": 21,
+        "surahs": [29, 30, 31, 32, 33],
+        "verses": [
+            { "surah": 29, "startVerse": 46, "endVerse": 69 },
+            { "surah": 30, "startVerse": 1, "endVerse": 60 },
+            { "surah": 31, "startVerse": 1, "endVerse": 34 },
+            { "surah": 32, "startVerse": 1, "endVerse": 30 },
+            { "surah": 33, "startVerse": 1, "endVerse": 30 }
+        ]
+    },
+    {
+        "id": 22,
+        "surahs": [33, 34, 35, 36],
+        "verses": [
+            { "surah": 33, "startVerse": 31, "endVerse": 73 },
+            { "surah": 34, "startVerse": 1, "endVerse": 54 },
+            { "surah": 35, "startVerse": 1, "endVerse": 45 },
+            { "surah": 36, "startVerse": 1, "endVerse": 27 }
+        ]
+    },
+    {
+        "id": 23,
+        "surahs": [36, 37, 38, 39],
+        "verses": [
+            { "surah": 36, "startVerse": 28, "endVerse": 83 },
+            { "surah": 37, "startVerse": 1, "endVerse": 182 },
+            { "surah": 38, "startVerse": 1, "endVerse": 88 },
+            {
+                "surah": 39,
+
+                "startVerse": 1,
+                "endVerse": 31
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "surahs": [39, 40, 41],
+        "verses": [
+            { "surah": 39, "startVerse": 32, "endVerse": 75 },
+            { "surah": 40, "startVerse": 1, "endVerse": 85 },
+            { "surah": 41, "startVerse": 1, "endVerse": 46 }
+        ]
+    },
+    {
+        "id": 25,
+        "surahs": [41, 42, 43, 44],
+        "verses": [
+            { "surah": 41, "startVerse": 47, "endVerse": 54 },
+            { "surah": 42, "startVerse": 1, "endVerse": 53 },
+            { "surah": 43, "startVerse": 1, "endVerse": 89 },
+            { "surah": 44, "startVerse": 1, "endVerse": 59 }
+        ]
+    },
+    {
+        "id": 26,
+        "surahs": [45, 46, 47, 48, 49],
+        "verses": [
+            { "surah": 45, "startVerse": 1, "endVerse": 37 },
+            { "surah": 46, "startVerse": 1, "endVerse": 35 },
+            { "surah": 47, "startVerse": 1, "endVerse": 38 },
+            { "surah": 48, "startVerse": 1, "endVerse": 29 },
+            { "surah": 49, "startVerse": 1, "endVerse": 18 }
+        ]
+    },
+    {
+        "id": 27,
+        "surahs": [50, 51, 52, 53, 54, 55, 56],
+        "verses": [
+            { "surah": 50, "startVerse": 1, "endVerse": 45 },
+            { "surah": 51, "startVerse": 1, "endVerse": 60 },
+            { "surah": 52, "startVerse": 1, "endVerse": 49 },
+            { "surah": 53, "startVerse": 1, "endVerse": 62 },
+            { "surah": 54, "startVerse": 1, "endVerse": 55 },
+            { "surah": 55, "startVerse": 1, "endVerse": 78 },
+            { "surah": 56, "startVerse": 1, "endVerse": 96 }
+        ]
+    },
+    {
+        "id": 28,
+        "surahs": [57, 58, 59, 60, 61, 62, 63, 64],
+        "verses": [
+            { "surah": 57, "startVerse": 1, "endVerse": 29 },
+            { "surah": 58, "startVerse": 1, "endVerse": 22 },
+            { "surah": 59, "startVerse": 1, "endVerse": 24 },
+            { "surah": 60, "startVerse": 1, "endVerse": 13 },
+            { "surah": 61, "startVerse": 1, "endVerse": 14 },
+            { "surah": 62, "startVerse": 1, "endVerse": 11 },
+            { "surah": 63, "startVerse": 1, "endVerse": 11 },
+            { "surah": 64, "startVerse": 1, "endVerse": 18 }
+        ]
+    },
+    {
+        "id": 29,
+        "surahs": [65, 66, 67, 68, 69, 70, 71, 72, 73],
+        "verses": [
+            { "surah": 65, "startVerse": 1, "endVerse": 12 },
+            { "surah": 66, "startVerse": 1, "endVerse": 12 },
+            { "surah": 67, "startVerse": 1, "endVerse": 30 },
+            { "surah": 68, "startVerse": 1, "endVerse": 52 },
+            { "surah": 69, "startVerse": 1, "endVerse": 52 },
+            { "surah": 70, "startVerse": 1, "endVerse": 44 },
+            { "surah": 71, "startVerse": 1, "endVerse": 28 },
+            { "surah": 72, "startVerse": 1, "endVerse": 28 },
+            { "surah": 73, "startVerse": 1, "endVerse": 20 }
+        ]
+    },
+    {
+        "id": 30,
+        "surahs": [74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114],
+        "verses": [
+            { "surah": 74, "startVerse": 1, "endVerse": 56 },
+            { "surah": 75, "startVerse": 1, "endVerse": 40 },
+            { "surah": 76, "startVerse": 1, "endVerse": 31 },
+            { "surah": 77, "startVerse": 1, "endVerse": 50 },
+            { "surah": 78, "startVerse": 1, "endVerse": 40 },
+            { "surah": 79, "startVerse": 1, "endVerse": 46 },
+            { "surah": 80, "startVerse": 1, "endVerse": 42 },
+            { "surah": 81, "startVerse": 1, "endVerse": 29 },
+            { "surah": 82, "startVerse": 1, "endVerse": 19 },
+            { "surah": 83, "startVerse": 1, "endVerse": 36 },
+            { "surah": 84, "startVerse": 1, "endVerse": 25 },
+            { "surah": 85, "startVerse": 1, "endVerse": 22 },
+            { "surah": 86, "startVerse": 1, "endVerse": 17 },
+            { "surah": 87, "startVerse": 1, "endVerse": 19 },
+            { "surah": 88, "startVerse": 1, "endVerse": 26 },
+            { "surah": 89, "startVerse": 1, "endVerse": 30 },
+            { "surah": 90, "startVerse": 1, "endVerse": 20 },
+            { "surah": 91, "startVerse": 1, "endVerse": 15 },
+            { "surah": 92, "startVerse": 1, "endVerse": 21 },
+            { "surah": 93, "startVerse": 1, "endVerse": 11 },
+            { "surah": 94, "startVerse": 1, "endVerse": 8 },
+            { "surah": 95, "startVerse": 1, "endVerse": 8 },
+            { "surah": 96, "startVerse": 1, "endVerse": 19 },
+            { "surah": 97, "startVerse": 1, "endVerse": 5 },
+            { "surah": 98, "startVerse": 1, "endVerse": 8 },
+            { "surah": 99, "startVerse": 1, "endVerse": 8 },
+            { "surah": 100, "startVerse": 1, "endVerse": 11 },
+            { "surah": 101, "startVerse": 1, "endVerse": 11 },
+            { "surah": 102, "startVerse": 1, "endVerse": 8 },
+            { "surah": 103, "startVerse": 1, "endVerse": 3 },
+            { "surah": 104, "startVerse": 1, "endVerse": 9 },
+            { "surah": 105, "startVerse": 1, "endVerse": 5 },
+            { "surah": 106, "startVerse": 1, "endVerse": 4 },
+            { "surah": 107, "startVerse": 1, "endVerse": 7 },
+            { "surah": 108, "startVerse": 1, "endVerse": 3 },
+            {
+
+                "surah": 109,
+                "startVerse": 1,
+                "endVerse": 6
+            },
+            { "surah": 110, "startVerse": 1, "endVerse": 3 },
+            { "surah": 111, "startVerse": 1, "endVerse": 5 },
+            { "surah": 112, "startVerse": 1, "endVerse": 4 },
+            { "surah": 113, "startVerse": 1, "endVerse": 5 },
+            { "surah": 114, "startVerse": 1, "endVerse": 6 }
+        ]
+    }
+]
